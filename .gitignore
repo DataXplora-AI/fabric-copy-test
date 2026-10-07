@@ -1,0 +1,9 @@
+# Secrets and local settings - never commit
+.env
+.env.*
+!.env.example
+
+*.parquet
+__pycache__/
+.venv/
+.DS_Store

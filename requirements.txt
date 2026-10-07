@@ -1,0 +1,4 @@
+azure-identity>=1.19
+azure-storage-file-datalake>=12.18
+pyarrow>=17
+pyodbc>=5.2
